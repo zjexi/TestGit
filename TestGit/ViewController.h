@@ -9,7 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+//just test Git...
 
+@property (nonatomic, strong) NSString *testString;
 
 @end
 
